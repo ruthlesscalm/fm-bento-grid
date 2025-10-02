@@ -5,7 +5,7 @@ This is a solution to the [Bento Grid challenge on Frontend Mentor](https://www.
 
 ## 🔗 Links 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-pixel-perfect-fluid-bento-grid-and-398400-accessibility-VvP0mgxd0w)
-- Live Site URL: [Bento Grid](https://ruthlesscalm.github.io/frontend-mentor-projects/bento-grid/)
+- Live Site URL: [Bento Grid](https://ruthlesscalm.github.io/fm-bento-grid/)
 
 ## 🔍 Table of contents
 
@@ -93,5 +93,5 @@ Pull req are welcome. For major changes, open an issue first.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](../LICENSE).  
-You're free to use, modify, and distribute with credit to **Ruthless Calm**.
+This project is licensed under the [MIT License](./LICENSE).  
+You're free to use, modify, and distribute with credit to **Pavan Gowda S R**.
