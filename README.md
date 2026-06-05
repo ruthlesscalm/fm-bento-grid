@@ -1,97 +1,47 @@
-# 🚀 Frontend Mentor - Bento Grid
-"Bento Grid Landing Page that tests your layout skills with CSS Grid and Flexbox"
+# Bento Grid
 
-This is a solution to the [Bento Grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj).
+This is one of my Frontend Mentor challenge projects.
 
-## 🔗 Links 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-pixel-perfect-fluid-bento-grid-and-398400-accessibility-VvP0mgxd0w)
-- Live Site URL: [Bento Grid](https://ruthlesscalm.github.io/fm-bento-grid/)
+## Links
 
-## 🔍 Table of contents
+This is the challenge - [Bento Grid](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj)
 
-- [🚀 Frontend Mentor - Bento Grid](#-frontend-mentor---bento-grid)
-  - [🔗 Links](#-links)
-  - [🔍 Table of contents](#-table-of-contents)
-  - [📔 Overview](#-overview)
-    - [🎯 The Challenge](#-the-challenge)
-    - [📷 Screenshots](#-screenshots)
-      - [🎬 Preview](#-preview)
-      - [📊 Accessibility Report](#-accessibility-report)
-  - [📦 Features](#-features)
-  - [📌 Tech Stacks](#-tech-stacks)
-  - [🛠️ Tools](#️-tools)
-  - [📚 Credits /  References](#-credits---references)
-  - [👤 Author](#-author)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
-    
+* Live Demo: [Bento Grid](https://ruthlesscalm.github.io/fm-bento-grid/)
+* Solution: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/-pixel-perfect-fluid-bento-grid-and-398400-accessibility-VvP0mgxd0w)
 
-## 📔 Overview
+## Preview
 
-### 🎯 The Challenge
-
-- Build landing page using HTML and CSS
-- Should be responsive
-- Ensure Strong Web Accessibility
-
-### 📷 Screenshots
-
-#### 🎬 Preview
-
-- **Desktop** 
+* **Desktop**
 
 ![](./screenshots/desktop.webp)
 
-- **Tablet** 
-
-![](./screenshots/tablet.webp)
-
-- **Mobile** 
+* **Mobile**
 
 ![](./screenshots/mobile.webp)
 
-- **Zoom - 150%**
 
-![](./screenshots/zoom.webp)
+## Features
 
-#### 📊 Accessibility Report
+* Fully fluid and responsive layout (280px to 1920px)
+* Accessibility-focused (semantic HTML, focus states, screen reader friendly)
+* Built using CSS Grid and Flexbox
 
-![](./screenshots/accessibility.webp)
+## Tech Stack
 
-## 📦 Features
+* HTML
+* CSS
 
-- Fully fluid and responsive layout (280px to 1920px)
-- Web-accessible (focus states , semantic Html , screen reader friendly)
+## Credits / References
 
-## 📌 Tech Stacks
+* [Joshua Comeau](https://www.joshwcomeau.com/)
 
-- HTML 5
-- CSS 3
+  * [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+* [Piccalilli - Andy Bell](https://piccalil.li/author/andy-bell/)
 
-## 🛠️ Tools
+  * [Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 
-- [Google Fonts](https://fonts.google.com/?preview.text=Nature) - Fonts (CDN and ttf files)
-- [Webfont](https://webfont.yabe.land/en/misc/convert-ttf-woff2/) - Conversion of variable ttf to variable woff2
-- [Real Favicon Generator](https://realfavicongenerator.net) - Generate mutiple format favicons and customize site.webmanifest
-- [squoosh](https://squoosh.app/) - Conversion of image files (png, jpeg, avif, webp etc)
+## License
 
-## 📚 Credits /  References
+This project is licensed under the MIT License.
 
-- [Joshua Comeau](https://www.joshwcomeau.com/)
-    - [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-- [Picallili - Andy Bell](https://piccalil.li/author/andy-bell/)
-    - [Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
-
-## 👤 Author
-
-- Github - [Ruthless Calm](https://github.com/ruthlesscalm)
-- Frontend Mentor - [Ruthless Calm](https://www.frontendmentor.io/profile/ruthlesscalm)
-
-## 🤝 Contributing
-
-Pull req are welcome. For major changes, open an issue first.
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).  
-You're free to use, modify, and distribute with credit to **Pavan Gowda S R**.
+Feel free to use the code for learning, experimentation, or reference.
